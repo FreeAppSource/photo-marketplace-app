@@ -1,0 +1,175 @@
+{
+ "app": "Photo App",
+ "start": "s-01-home",
+ "screens": [
+  {
+   "slug": "s-01-home",
+   "name": "01-Home",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 60,
+   "links": 8
+  },
+  {
+   "slug": "notify",
+   "name": "Notify",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 46,
+   "links": 5
+  },
+  {
+   "slug": "product-details",
+   "name": "PRODUCT DETAILS",
+   "page": "Page 1",
+   "w": 375,
+   "h": 960,
+   "elements": 153,
+   "links": 4
+  },
+  {
+   "slug": "s-02-category-selction",
+   "name": "02-category selction",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 51,
+   "links": 7
+  },
+  {
+   "slug": "s-07-profile",
+   "name": "07-Profile",
+   "page": "Page 1",
+   "w": 375,
+   "h": 814,
+   "elements": 64,
+   "links": 9
+  },
+  {
+   "slug": "cht",
+   "name": "Cht",
+   "page": "Page 1",
+   "w": 375,
+   "h": 814,
+   "elements": 53,
+   "links": 1
+  },
+  {
+   "slug": "s-05-messages",
+   "name": "05-Messages",
+   "page": "Page 1",
+   "w": 375,
+   "h": 814,
+   "elements": 79,
+   "links": 6
+  },
+  {
+   "slug": "postt",
+   "name": "postt",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 34,
+   "links": 3
+  },
+  {
+   "slug": "postt-2",
+   "name": "postt",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 35,
+   "links": 2
+  },
+  {
+   "slug": "postt-3",
+   "name": "postt",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 22,
+   "links": 1
+  },
+  {
+   "slug": "postt-4",
+   "name": "postt",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 36,
+   "links": 2
+  },
+  {
+   "slug": "s-07-profile-2",
+   "name": "07-Profile",
+   "page": "Page 1",
+   "w": 375,
+   "h": 814,
+   "elements": 54,
+   "links": 2
+  },
+  {
+   "slug": "s-07-profile-3",
+   "name": "07-Profile",
+   "page": "Page 1",
+   "w": 375,
+   "h": 814,
+   "elements": 57,
+   "links": 2
+  },
+  {
+   "slug": "s-07-profile-4",
+   "name": "07-Profile",
+   "page": "Page 1",
+   "w": 375,
+   "h": 814,
+   "elements": 35,
+   "links": 2
+  },
+  {
+   "slug": "s-07-profile-5",
+   "name": "07-Profile",
+   "page": "Page 1",
+   "w": 375,
+   "h": 814,
+   "elements": 47,
+   "links": 1
+  },
+  {
+   "slug": "s-07-profiles",
+   "name": "07-Profiles",
+   "page": "Page 1",
+   "w": 375,
+   "h": 814,
+   "elements": 52,
+   "links": 2
+  },
+  {
+   "slug": "s-07-profile-6",
+   "name": "07-Profile",
+   "page": "Page 1",
+   "w": 375,
+   "h": 814,
+   "elements": 30,
+   "links": 1
+  },
+  {
+   "slug": "location-set",
+   "name": "Location set",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 25,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter",
+  "montserrat",
+  "open-sans",
+  "poppins"
+ ]
+}
